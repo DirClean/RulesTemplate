@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "carefully_clean": false, 
+            "carefully_replace": false, 
+            "dir": "/ABC", 
+            "isFile": false, 
+            "mode": 3, 
+            "needUninstall": false, 
+            "notReplace": false, 
+            "pkg": "android", 
+            "title_default": "XXX Ads", 
+            "willClean": false
+        }
+    ]
+}
