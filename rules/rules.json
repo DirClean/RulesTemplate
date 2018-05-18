@@ -1,0 +1,44 @@
+{
+    "wiki": "Contains a list of rules. Json is divided into 3 arrays: stable, beta, and deleted. Stable is a must.",
+    
+    "wiki_stable": "Contains all stable rules, all users can get these rules.",
+    "stable": [
+        {
+            "wiki_rule": "You can get other information through Template Wiki.",
+            "carefully_clean": false, 
+            "carefully_replace": false, 
+            "dir": "/ABC", 
+            "isFile": false, 
+            "mode": 3, 
+            "needUninstall": false, 
+            "notReplace": false, 
+            "pkg": "android", 
+            "title_default": "XXX Ads", 
+            "willClean": false
+        }
+    ],
+    "wiki_beta": "Contains beta rules that are only available to users who have been added to the rules test.",
+    "beta": [
+        {
+            "carefully_clean": false, 
+            "carefully_replace": false, 
+            "dir": "/ABCDEFG", 
+            "isFile": false, 
+            "mode": 3, 
+            "needUninstall": false, 
+            "notReplace": false, 
+            "pkg": "android", 
+            "title_default": "XXX Ads", 
+            "willClean": false
+        }
+    ],
+
+    "wiki_deleted": "Contains deleted rules, each containing only the name, path, and isFile fields for user recovery blocking.",
+    "deleted": [
+        {
+        "dir": "/ABC",
+        "isFile": false,
+        "title_default": "XXX Ads"
+        }
+    ]
+}
