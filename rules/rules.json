@@ -13,7 +13,13 @@
             "needUninstall": false, 
             "notReplace": false, 
             "pkg": "android", 
-            "title_default": "XXX Ads", 
+            "title": {
+                "source": {
+                    "zh-rCN": "一个规则",
+                    "en-US": "Rule"
+                },
+                "defaultSource": "Rule"
+            },
             "willClean": false
         }
     ],
@@ -28,7 +34,13 @@
             "needUninstall": false, 
             "notReplace": false, 
             "pkg": "android", 
-            "title_default": "XXX Ads", 
+            "title": {
+                "source": {
+                    "zh-rCN": "一个 Beta 规则",
+                    "en-US": "Beta rule"
+                },
+                "defaultSource": "Beta Rule"
+            },
             "willClean": false
         }
     ],
@@ -38,7 +50,13 @@
         {
         "dir": "/ABC",
         "isFile": false,
-        "title_default": "XXX Ads"
+        "title": {
+                "source": {
+                    "zh-rCN": "已删除的规则",
+                    "en-US": "Deleted rule"
+                },
+                "defaultSource": "Deleted Rule"
+            }
         }
     ]
 }
