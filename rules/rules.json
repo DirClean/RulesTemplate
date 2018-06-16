@@ -21,6 +21,25 @@
                 "defaultSource": "Rule"
             },
             "willClean": false
+        },
+        {
+            "wiki_rule_conflict": "The path of this rule is the same as the path of other rules, so the user needs to choose which one to use",
+            "carefully_clean": false, 
+            "carefully_replace": false, 
+            "dir": "/ABC", 
+            "isFile": false, 
+            "mode": 3, 
+            "needUninstall": false, 
+            "notReplace": false, 
+            "pkg": "android", 
+            "title": {
+                "source": {
+                    "zh-rCN": "/ABC 12345",
+                    "en-US": "/ABC 12345"
+                },
+                "defaultSource": "/ABC 12345"
+            },
+            "willClean": false
         }
     ],
     "wiki_beta": "Contains beta rules that are only available to users who have been added to the rules test.",
