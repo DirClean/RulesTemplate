@@ -1,0 +1,12 @@
+{
+    "wiki_beta": "The is the beta version of FolderA.",
+    "mode": 3, 
+    "pkg": "android", 
+    "title": {
+        "source": {
+            "zh-rCN": "一个规则(Beta)",
+            "en-US": "Rule (Beta)"
+            },
+        "defaultSource": "Rule"
+    }
+}

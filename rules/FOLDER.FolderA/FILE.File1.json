@@ -1,0 +1,12 @@
+{
+    "wiki_rule": "You can get other information through Template Wiki.",
+    "mode": 3, 
+    "pkg": "android", 
+    "title": {
+        "source": {
+            "zh-rCN": "一个规则",
+            "en-US": "Rule"
+            },
+        "defaultSource": "Rule"
+    }
+}

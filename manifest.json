@@ -1,0 +1,19 @@
+{
+    "title": {
+        "wiki": "Localized text objects, source is a Map (can be empty), key is the client's language (e.g. zh-rCN), and value is the text of the corresponding language. defaultSource is the default text. This text is used (not nullable) when it is not possible to find the available text from source.",
+        "source": {
+            "zh-rCN": "Dir 源示例",
+            "en-US": "Dir rule source template"
+        },
+        "defaultSource": "Dir rule source template"
+    },
+    "summary": {
+        "wiki": "Also a localized text",
+        "source": {
+            "zh-rCN": "一个简单的规则源",
+            "en-US": "A simple rule source"
+        },
+        "defaultSource": "The official source"
+    },
+    "author": "Yuuta"
+}
