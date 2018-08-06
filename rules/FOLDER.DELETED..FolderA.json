@@ -1,6 +1,13 @@
 {
     "wiki_deleted": "Contains deleted rules, each containing only the name, path, and isFile fields for user recovery blocking.",
-    "pkg": "android", 
+    "pkg": [
+		"android", 
+		"kh.android.dir"
+	], 
+	"authors": [
+		"Yuuta", 
+		"2333"
+	],
     "title": {
         "source": {
             "zh-rCN": "一个规则",
